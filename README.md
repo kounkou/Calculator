@@ -10,6 +10,7 @@ or
 
 # Feature support
 
+This calculator UI is inspired from the iOS fanous calculator design.
 Current the application only supports adding numbers. The other operations will be added at a later stage.
 Feel free to contribute, this project might involve some data structures, and design patterns for handling the operations.
 It can be a good opportunity to practice those.
