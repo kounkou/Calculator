@@ -18,3 +18,21 @@ It can be a good opportunity to practice those.
 # Result
 
 <img width="412" alt="Screenshot 2023-03-05 at 5 25 40 PM" src="https://user-images.githubusercontent.com/2589171/222999460-b50c865a-9d01-411d-af35-a2c3df9e4a04.png">
+
+# Compilation/running instruction
+
+1. Install Qt. For instruction on how to install : 
+
+https://www.qt.io/download
+
+2. Compile the project
+
+```bash
+qmake && make
+```
+
+3. Launch the application
+
+```bash
+./Calculator
+```
