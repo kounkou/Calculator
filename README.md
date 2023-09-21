@@ -4,8 +4,7 @@ Simple Calculator using Qt Qml. The project shows how registering a C++ type wit
 QtQml supports 3 other different patterns for communicating between C++ and Qml, namely 
 
 - subclassing QQuickItem in C++ for creating a custom QML item
-- Registering Context Properties
-or
+- Registering C++ Type to the QmlEngine
 - accessing QML objects through the object tree
 
 # Feature support
